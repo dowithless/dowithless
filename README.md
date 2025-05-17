@@ -1,8 +1,8 @@
-- 👋 Hi, I’m neo.dowithless
-- 👀 我在探索自由职业
-- 🌱 我最近在尝试创建一些小产品
-- 💞️ 我在寻求AI, Web3领域的合作
-- 📫 你可以通过邮箱与我取得联系: neo.dowithless@gmail.com
+- 👋 Hi, I’m neo  
+- 👀 I'm exploring freelancing  
+- 🌱 I'm currently experimenting with creating small products  
+- 💞️ I'm looking to collaborate in AI and Web3 fields  
+- 📫 You can reach me via email: neo.dowithless@gmail.com  
 
 <!---
 dowithless/dowithless is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
